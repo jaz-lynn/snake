@@ -8,7 +8,7 @@ pygame.font.init()
 score_font = pygame.font.SysFont("consolas", 20)  # or any other font you'd like
 score = 0
 # color definition
-WHITE = (255, 255, 255)
+YELLOW = (255, 255, 255)
 RED = (255, 0, 0)
 # initialize pygame
 pygame.init()
